@@ -1,6 +1,6 @@
 # Test-Canje-ER
 
-Las entidades son: artículo, sucursale, existencia, promocione, canje, ArticuloPromocion, CanjeArticuloPromocion, CanjeArticulo 
+Las entidades son: artículo, sucursal, existencia, promocion, canje, ArticuloPromocion, CanjeArticuloPromocion, CanjeArticulo 
          
 Se utilizó una entidad adicional "CanjeArticuloPromocion" para representar la relación entre las entidades artículo y promoción.
       
